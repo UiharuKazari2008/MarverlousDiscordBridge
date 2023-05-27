@@ -1,0 +1,10 @@
+{
+  "name": "MarverlousDiscordBridge",
+  "version": "1.0.0",
+  "dependencies": {
+    "eris": "^0.17.2",
+    "iconv-lite": "^0.6.3",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  }
+}
